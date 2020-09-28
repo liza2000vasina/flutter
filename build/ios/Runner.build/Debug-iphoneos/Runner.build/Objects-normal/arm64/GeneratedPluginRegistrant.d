@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/lizavasina/my_app/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/lizavasina/my_app/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/lizavasina/my_app/ios/Flutter/Flutter.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/usr/include/mach-o/dyld.modulemap \
+  /Users/lizavasina/my_app/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/lizavasina/my_app/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/lizavasina/my_app/ios/Flutter/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/lizavasina/my_app/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/lizavasina/my_app/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/lizavasina/my_app/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/lizavasina/my_app/ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/lizavasina/my_app/ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/lizavasina/my_app/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/lizavasina/my_app/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/lizavasina/my_app/ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/lizavasina/my_app/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/lizavasina/my_app/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/lizavasina/my_app/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/lizavasina/my_app/ios/Flutter/Flutter.framework/Headers/Flutter.h
